@@ -11,4 +11,4 @@ Site published at https://mantodinas.github.io/Sherlock-404/
 Created by Mantas Petrauskas 
 more projects https://github.com/mantodinas
 
-![screenshot](sherlock-background.webp)
+![screenshot](sherlock-404-screenshot.webp)
