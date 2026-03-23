@@ -6,7 +6,7 @@
 
 Simple 404 website created with HTML, CSS
 
-Site published at https://mantodinas.github.io/Sherlock-404/
+Site published at https://mantodinas.github.io/sherlock-404/
 
 Created by Mantas Petrauskas 
 more projects https://github.com/mantodinas
